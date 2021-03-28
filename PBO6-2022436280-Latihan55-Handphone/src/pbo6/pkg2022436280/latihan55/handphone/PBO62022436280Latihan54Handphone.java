@@ -7,7 +7,9 @@ package pbo6.pkg2022436280.latihan55.handphone;
 
 /**
  *
- * @author Funtsu
+ * Nama : Harris Munahar
+ * Kelas : PBO FS112B
+ * NIM : 2022436280
  */
 public class PBO62022436280Latihan54Handphone {
 

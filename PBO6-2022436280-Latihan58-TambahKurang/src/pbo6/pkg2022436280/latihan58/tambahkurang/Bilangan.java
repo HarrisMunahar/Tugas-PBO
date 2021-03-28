@@ -7,9 +7,12 @@ package pbo6.pkg2022436280.latihan58.tambahkurang;
 
 /**
  *
- * @author Funtsu
+ * Nama : Harris Munahar
+ * Kelas : PBO FS112B
+ * NIM : 2022436280
  */
 public class Bilangan {
+    
     private int x;
     private int y;
     

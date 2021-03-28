@@ -11,7 +11,6 @@ package pbo6.pkg2022436280.latihan51.gajikaryawan_;
  * Nama : Harris Munahar
  * Kelas : PBO FS112B
  * NIM : 2022436280
- * Deskripsi : Program ini berisi untuk menghitung gaji karyawan
  */
 
 
@@ -77,12 +76,12 @@ public class Manager extends Karyawan {
         System.out.print("Masukan Nik : ");
         data.setNik(input.nextLine());
         System.out.print("Masukan Nama : ");
-        data.setNama(input.nextLine());
+        data.setNama(input.next());
         System.out.print("Masukan Golongan (1/2/3) : ");
         data.setGolongan(input.nextInt());
         System.out.print("Masukan Jabatan (Manager/Kabag) : ");
         data.setJabatan(input.next());
-        System.out.print("Masukan Jumlah20 Kehadiran : ");
+        System.out.print("Masukan Jumlah Kehadiran : ");
         data.setKehadrian(input.nextInt());
         System.out.println("");
         System.out.println("====== Hasil Perhitungan ======");
